@@ -1,0 +1,9 @@
+C:\Office Data\mansoor\orasoft\Dot Net Batch\28th Batch\03 Dot Net Class\WinFrmAppGame\WinFrmAppGame\bin\Debug\WinFrmAppGame.exe.config
+C:\Office Data\mansoor\orasoft\Dot Net Batch\28th Batch\03 Dot Net Class\WinFrmAppGame\WinFrmAppGame\bin\Debug\WinFrmAppGame.exe
+C:\Office Data\mansoor\orasoft\Dot Net Batch\28th Batch\03 Dot Net Class\WinFrmAppGame\WinFrmAppGame\bin\Debug\WinFrmAppGame.pdb
+C:\Office Data\mansoor\orasoft\Dot Net Batch\28th Batch\03 Dot Net Class\WinFrmAppGame\WinFrmAppGame\obj\Debug\WinFrmAppGame.csprojResolveAssemblyReference.cache
+C:\Office Data\mansoor\orasoft\Dot Net Batch\28th Batch\03 Dot Net Class\WinFrmAppGame\WinFrmAppGame\obj\Debug\WinFrmAppGame.Form1.resources
+C:\Office Data\mansoor\orasoft\Dot Net Batch\28th Batch\03 Dot Net Class\WinFrmAppGame\WinFrmAppGame\obj\Debug\WinFrmAppGame.Properties.Resources.resources
+C:\Office Data\mansoor\orasoft\Dot Net Batch\28th Batch\03 Dot Net Class\WinFrmAppGame\WinFrmAppGame\obj\Debug\WinFrmAppGame.csproj.GenerateResource.Cache
+C:\Office Data\mansoor\orasoft\Dot Net Batch\28th Batch\03 Dot Net Class\WinFrmAppGame\WinFrmAppGame\obj\Debug\WinFrmAppGame.exe
+C:\Office Data\mansoor\orasoft\Dot Net Batch\28th Batch\03 Dot Net Class\WinFrmAppGame\WinFrmAppGame\obj\Debug\WinFrmAppGame.pdb
